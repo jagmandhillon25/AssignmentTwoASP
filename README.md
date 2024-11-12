@@ -1,0 +1,1 @@
+by continuing the assignment 2 of asp of mine i added authorization to make it private and only allowed to the authenticated users only and also added google sign all of this working properly in my local server but i dont have azure credits now and on other servers  i am not able to deploy it 
